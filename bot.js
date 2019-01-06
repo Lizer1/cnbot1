@@ -38,4 +38,3 @@ client.on('message', msg => {
 });
 
 
-client.login('NTMxMzYzOTM2NDAzMTkzODU3.DxM3UA.lQaCc4O9GrLeNGdYrBV9LEq89yM');
