@@ -32,12 +32,10 @@ client.on('ready', () => {
 
 client.on('message', msg => {
   if (msg.content === 'الشعار') {
-    msg.reply('الشعار بإسمك بالدسكورد
-  , :-
-! CN | , آسمك
-الشعار بإسمك باللعبة
- , :-
-𝕮𝓝㟼 آسمك');
+    msg.reply('الشعار باسمك بلدسكورد
+              CN | Name
+              الشعار باسمك بلعبة 
+              𝕮𝓝㟼 Name');
   }
 });
 
@@ -53,4 +51,4 @@ client.on('message', msg => {
 });
 
 
-client.login('NTI4MTcyMTg4NjY3MjE1ODcz.DxIdfg.9qHoTuuwS5I2sNbGXt_KJAGwp48');
+client.login('NTMxMzYzOTM2NDAzMTkzODU3.DxM3UA.lQaCc4O9GrLeNGdYrBV9LEq89yM');
